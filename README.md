@@ -1,3 +1,33 @@
+# eCommerce Platform
+
+## Overview
+
+This is a simple eCommerce platform built using React and Context API for state management. It provides a foundation for building an online store where users can browse, add products to their cart, and complete the purchase process.
+
+## Features
+
+- **Product Listings**: Display a list of products with details like name, description, price, and image.
+- **Shopping Cart**: Allow users to add and remove products from their shopping cart.
+- **Total Price Calculation**: Calculate and display the total price of items in the cart.
+- **Responsive Design**: Ensure the platform is accessible and usable on various screen sizes.
+
+## Tech Stack
+
+- **React**: A JavaScript library for building user interfaces.
+- **Context API**: Used for state management to handle shopping cart data and global app state.
+- **JavaScript (ES6+)**: Modern JavaScript features and syntax.
+- **CSS**: Styling and layout are done using CSS.
+- **HTML**: Structure and content of the application.
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/totalitycorp-frontend-challenge.git
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
